@@ -8,19 +8,25 @@ A high-performance, asynchronous Telegram bot designed for automated user suppor
 
 ### 1️⃣ Registration & Start
 
-<img src="./assets/start.png" width="800" alt="Bot Start Process">
+<img src="./assets/start.png" width="500" alt="Bot Start Process">
 
 ---
 
 ### 2️⃣ Support Ticket Workflow (FSM)
 
-<img src="./assets/ticket.png" width="800" alt="Full FSM Flow">
+<img src="./assets/ticket.png" width="500" alt="Full FSM Flow">
 
 ---
 
-### 3️⃣ Help Menu
+### 3️⃣ Admin Stats Menu
 
-<img src="./assets/help.png" width="800" alt="Bot Help Menu">
+<img src="./assets/stats.png" width="500" alt="Stats Menu">
+
+---
+
+### 4️⃣ Admin Broadcast Workflow
+
+<img src="./assets/broadcast.png" width="500" alt="Broadcast Workflow">
 
 ---
 
